@@ -2,6 +2,4 @@
 esta es una prueba de git 
 mi nombre es ivan jimnez 
 
-C
-C
-tengo 25 años
+tengo 25 años y es desarrolodor web
