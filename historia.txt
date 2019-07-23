@@ -3,4 +3,10 @@ Esta es la historia de ivan jimenez
 
 Ivan jimnenez tiene 26 años y nacio en mexico viviendo en mex
 
+<<<<<<< HEAD
 hoy hablaremos de su vida y su carrera
+=======
+hoy hablaremos de su historia mañana nos enfocaremos en 
+
+su vida laboral
+>>>>>>> cabecera
