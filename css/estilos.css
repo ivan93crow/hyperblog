@@ -29,3 +29,10 @@ body {
 	padding: 0 0 0 1em;
 	font-weight: normal;
 }
+
+#footer{
+	background: #1668C4;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+}
